@@ -12,10 +12,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/huffpostlabs/passport-stripe.git"
+    "url": "git://github.com/mathisonian/passport-stripe.git"
   },
   "bugs": {
-    "url": "http://github.com/huffpostlabs/passport-stripe/issues"
+    "url": "http://github.com/mathisonian/passport-stripe/issues"
   },
   "author": "Matthew Conlen <mc@mathisonian.com> (http://www.mathisonian.com/)",
   "licenses": [

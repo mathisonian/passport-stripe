@@ -79,4 +79,4 @@ Scotch.io has provided a [comprehensive tutorial](http://scotch.io/tutorials/jav
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2013 HuffPost Labs <[http://labs.huffingtonpost.com/](http://labs.huffingtonpost.com/)>
+Copyright (c) Matthew Conlen <[http://mathisonian.com/](http://mathisonian.com/)>
